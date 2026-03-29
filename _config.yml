@@ -24,21 +24,21 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Coralie Rousseau"
+  name             : Coralie Rousseau
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Chicago, Illinois, USA"
-  employer         : "The University of Chicago"
+  location         : Chicago, Illinois, USA
+  employer         : The University of Chicago
   uri              : # URL
-  email            : "crousseau@uchicago.edu" 
+  email            : crousseau@uchicago.edu 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=8yv58zcAAAAJ&hl=fr"
+  googlescholar    : https://scholar.google.com/citations?user=8yv58zcAAAAJ&hl=fr
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0005-8568-3449"
+  orcid            : https://orcid.org/0009-0005-8568-3449
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
