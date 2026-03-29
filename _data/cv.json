@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Coralie Rousseau",
-    "email": "crousseau@uchicago.edu",
+    "name": "Your Sidebar Name",
+    "email": "none@example.org",
     "phone": "",
-    "website": "https://github.com/rssco/rssco.github.io",
-    "summary": "Currently Postodoc at the University of Chicago",
+    "website": "https://academicpages.github.io",
+    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Chicago",
-      "countryCode": "USA",
-      "region": "Illinois"
+      "city": "Earth",
+      "countryCode": "US",
+      "region": ""
     },
     "profiles": [
       {
