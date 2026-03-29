@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": Coralie Rousseau,
-    "email": crousseau@uchicago.edu,
+    "name": "Coralie Rousseau",
+    "email": "crousseau@uchicago.edu",
     "phone": "",
     "website": "https://github.com/rssco/rssco.github.io",
-    "summary": Currently Postodoc at the University of Chicago,
+    "summary": "Currently Postodoc at the University of Chicago",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": Chicago,
-      "countryCode": USA,
-      "region": Illinois
+      "city": "Chicago",
+      "countryCode": "USA",
+      "region": "Illinois"
     },
     "profiles": [
       {
