@@ -25,11 +25,10 @@ author:
   # Biographic information
   avatar           : "https://avatars.githubusercontent.com/u/60218121?v=4"
   name             : Coralie Rousseau
-  pronouns         : She/her 
+  pronouns         : "" 
   bio              : Computational biology 
   location         : Chicago, Illinois, USA
   employer         : The University of Chicago
-  uri              : # URL
   email            : crousseau@uchicago.edu 
 
   # Academic websites
@@ -42,9 +41,8 @@ author:
 
 
   # Repositories and software development
-  github           : 
-    url: "https://github.com/rssco"   
-    usernae: rssco
+  github           : https://github.com/rssco
+    username: rssco
 
 
 # Publication Category - The following the list of publication categories and their headings
