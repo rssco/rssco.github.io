@@ -1,11 +1,11 @@
 ---
 title: "A review on the chemical ecology of the Fucaceae holobionts: from fundamental knowledge to applications"
 collection: publications
-category: Review
+category: review
 permalink: doi:10.5802/crchim.271
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
-venue: 'Journal 1'
+venue: 'Comptes Rendu Chimie'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
