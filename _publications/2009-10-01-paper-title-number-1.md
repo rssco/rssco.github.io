@@ -1,8 +1,8 @@
 ---
-title: "Paper Title Number 1"
+title: "A review on the chemical ecology of the Fucaceae holobionts: from fundamental knowledge to applications"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+category: Review
+permalink: doi:10.5802/crchim.271
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
